@@ -1,0 +1,27 @@
+* {
+    background-color: darkkhaki;
+    color: black;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+body {
+    font-family: 'Comfortaa';
+    text-align: center;
+    margin: 20px;
+}
+
+button {
+    font-family: 'Comfortaa';
+    background-color:black;
+    color: white;
+    text-align: center;
+}
+
+button:hover {
+    background-color:black;
+    color: white;
+}
+
