@@ -25,3 +25,13 @@ button:hover {
     color: white;
 }
 
+.navbar {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: darkkhaki;
+    color: black;
+}
+
+.navbar:scrolldown {
+    background-color: black;
+    color:white
+}
