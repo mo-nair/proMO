@@ -33,5 +33,10 @@ button:hover {
 
 .navbar:scrolldown {
     background-color: black;
-    color:white
+    color:white;
 }
+
+.navbar a {
+    text-align: center;
+    float: center;
+    font-size: 20;
